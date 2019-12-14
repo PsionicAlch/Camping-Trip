@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 3ddf2b11c6736f148aa3f0ec9a1b0acf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8917198902540807189
+    second: CampingTripTileMap_0
+  - first:
+      213: -5276998649553497883
+    second: CampingTripTileMap_1
+  - first:
+      213: -3691645431270509237
+    second: CampingTripTileMap_2
+  - first:
+      213: -1098994456265723767
+    second: CampingTripTileMap_3
+  - first:
+      213: 3926409227754022234
+    second: CampingTripTileMap_4
+  - first:
+      213: 2431529600935795809
+    second: CampingTripTileMap_5
+  - first:
+      213: -1278824415516616766
+    second: CampingTripTileMap_6
+  - first:
+      213: 8906561504522766585
+    second: CampingTripTileMap_7
+  - first:
+      213: -4158629788219866522
+    second: CampingTripTileMap_8
+  - first:
+      213: 908645464766425536
+    second: CampingTripTileMap_9
+  - first:
+      213: 2014771206578368019
+    second: CampingTripTileMap_10
+  - first:
+      213: -1662084929279535468
+    second: CampingTripTileMap_11
+  - first:
+      213: -3850623833323627138
+    second: CampingTripTileMap_12
+  - first:
+      213: -2505150678908269817
+    second: CampingTripTileMap_13
+  - first:
+      213: -6870100993831294665
+    second: CampingTripTileMap_14
+  - first:
+      213: 8469851186605560804
+    second: CampingTripTileMap_15
+  - first:
+      213: -6309587095525833958
+    second: CampingTripTileMap_16
+  - first:
+      213: 762967202087491984
+    second: CampingTripTileMap_17
+  - first:
+      213: 2924284483219738217
+    second: CampingTripTileMap_18
+  - first:
+      213: -6203573523144006171
+    second: CampingTripTileMap_19
+  - first:
+      213: 7899146979487939244
+    second: CampingTripTileMap_20
+  - first:
+      213: 3690455200518503156
+    second: CampingTripTileMap_21
+  - first:
+      213: 7949923951086996687
+    second: CampingTripTileMap_22
+  - first:
+      213: 8517416810301721406
+    second: CampingTripTileMap_23
+  - first:
+      213: 2540221350052449195
+    second: CampingTripTileMap_24
+  - first:
+      213: 7505049370927052883
+    second: CampingTripTileMap_25
+  - first:
+      213: -4731701217444645446
+    second: CampingTripTileMap_26
+  - first:
+      213: 4776265018314358225
+    second: CampingTripTileMap_27
+  - first:
+      213: -5328804770584750395
+    second: CampingTripTileMap_28
+  - first:
+      213: 4090472489156807605
+    second: CampingTripTileMap_29
+  - first:
+      213: 6281442680239192240
+    second: CampingTripTileMap_30
+  - first:
+      213: 5702351333640984517
+    second: CampingTripTileMap_31
+  - first:
+      213: 483996889971000647
+    second: CampingTripTileMap_32
+  - first:
+      213: -7032270072942346018
+    second: CampingTripTileMap_33
+  - first:
+      213: 451096384015999841
+    second: CampingTripTileMap_34
+  - first:
+      213: 4955629242873683094
+    second: CampingTripTileMap_35
+  - first:
+      213: 6733815086153704712
+    second: CampingTripTileMap_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CampingTripTileMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9501a316601be47baa6aaf625866d9
+      internalID: 8917198902540807189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2a1e8292ac0cc46bfab95ff808b24b
+      internalID: -5276998649553497883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c909d6372d2e5c4bbcc1f53a7c91b1e
+      internalID: -3691645431270509237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef7bd383d518d4e96453a482a5d0b4
+      internalID: -1098994456265723767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6cfe719abf6542a53ecbf92f3369d
+      internalID: 3926409227754022234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeed9d69ca63f4a44a9920d1a503fb05
+      internalID: 2431529600935795809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e93c9f91135054bad1017e00b08519
+      internalID: -1278824415516616766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e60fc8756861940a3e5ffa0959301b
+      internalID: 8906561504522766585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c3fad5d899f1e4e9ae7607da630dad
+      internalID: -4158629788219866522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10587f3f7cff3814595c434fbcc76976
+      internalID: 908645464766425536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e0e1c4a6a3ac44a76b5bbfb60410d
+      internalID: 2014771206578368019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d122544c4b554f939e968faad855d
+      internalID: -1662084929279535468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6709fb30fc2a546b1825d7b9d1bc80
+      internalID: -3850623833323627138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638a23a696ebc54d9eedf56bfb8cbd9
+      internalID: -2505150678908269817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa131ed377ecf4993527ffbd0beaef
+      internalID: -6870100993831294665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afdb16a6e9b1584da6b38c4389479b9
+      internalID: 8469851186605560804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942db82019f97b4b9128d46a95d1991
+      internalID: -6309587095525833958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5558931265c86d442bde42dfc4984318
+      internalID: 762967202087491984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c3a86abf105db4685edcab53b8bac8
+      internalID: 2924284483219738217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e99ba4c1276894c9dbc33887670669
+      internalID: -6203573523144006171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56da53028ab0b4490ffba40e489f76
+      internalID: 7899146979487939244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4a5fc0cab6ad42ae49ecf16d6b7ef
+      internalID: 3690455200518503156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c9b7b94824ac41a3b8ca61228718f
+      internalID: 7949923951086996687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d56d716dc91b14688cd6fbf06d8694
+      internalID: 8517416810301721406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3d1520618dd734fa594409866d93b4
+      internalID: 2540221350052449195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0248fc78b956ebd4cb74f99be6c9d9af
+      internalID: 7505049370927052883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_26
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd184b94f074d1a47bfff119fe08fc49
+      internalID: -4731701217444645446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61803520491bf4245be61c170f173ac2
+      internalID: 4776265018314358225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc40f065afeef4788a5ee22fefb79d
+      internalID: -5328804770584750395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf839bbf845caa04abb9b9fbeafcf5fd
+      internalID: 4090472489156807605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f45ccef1ed6a04aba862608e70c925
+      internalID: 6281442680239192240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03204155e1afb2d4da08da3829b3c678
+      internalID: 5702351333640984517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef4467fa1080e4ca975359183b96c4
+      internalID: 483996889971000647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c6826e2cd0e0b4488b0572fd4b534a
+      internalID: -7032270072942346018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9965bb8aaa08ec4c891d8ba5ee38468
+      internalID: 451096384015999841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af864007901a83e4dbcce75ff5ccd553
+      internalID: 4955629242873683094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CampingTripTileMap_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036cc66828df0e74180e9a164d3b2cac
+      internalID: 6733815086153704712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
